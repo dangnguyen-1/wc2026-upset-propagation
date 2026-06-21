@@ -1,0 +1,20 @@
+# Generated pipeline output (see README "Outputs")
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Test / coverage tooling
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Secrets / local config
+.env
+
+# OS noise
+.DS_Store

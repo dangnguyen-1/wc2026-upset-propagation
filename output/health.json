@@ -1,0 +1,8 @@
+{
+  "last_run_utc": "2026-06-11T13:40:44.777883+00:00",
+  "duration_sec": 235.32,
+  "exit_status": "success",
+  "n_scenarios": 79,
+  "calibration_max_residual": 0.00304,
+  "validation_pass": true
+}

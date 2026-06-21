@@ -1,0 +1,157 @@
+{
+  "computed_at": "2026-06-11T13:54:20.803402+00:00",
+  "source_market_log_ts": "2026-06-11T13:40:44.545869+00:00",
+  "n_groups_observed": 0,
+  "rows": [
+    {
+      "team": "Spain",
+      "market_pp": 16.2746,
+      "our_implied_p4_pp": 15.5397,
+      "delta_p4_pp": -0.7349,
+      "edge_direction_p4": "fair",
+      "our_implied_p8_pp": 15.821,
+      "delta_p8_pp": -0.4536,
+      "edge_direction_p8": "fair"
+    },
+    {
+      "team": "France",
+      "market_pp": 15.4105,
+      "our_implied_p4_pp": 16.0019,
+      "delta_p4_pp": 0.5914,
+      "edge_direction_p4": "fair",
+      "our_implied_p8_pp": 16.0833,
+      "delta_p8_pp": 0.6728,
+      "edge_direction_p8": "fair"
+    },
+    {
+      "team": "England",
+      "market_pp": 10.4177,
+      "our_implied_p4_pp": 11.2152,
+      "delta_p4_pp": 0.7975,
+      "edge_direction_p4": "fair",
+      "our_implied_p8_pp": 11.2249,
+      "delta_p8_pp": 0.8073,
+      "edge_direction_p8": "fair"
+    },
+    {
+      "team": "Portugal",
+      "market_pp": 10.4177,
+      "our_implied_p4_pp": 10.0963,
+      "delta_p4_pp": -0.3214,
+      "edge_direction_p4": "fair",
+      "our_implied_p8_pp": 10.1256,
+      "delta_p8_pp": -0.292,
+      "edge_direction_p8": "fair"
+    },
+    {
+      "team": "Argentina",
+      "market_pp": 8.5934,
+      "our_implied_p4_pp": 8.2928,
+      "delta_p4_pp": -0.3005,
+      "edge_direction_p4": "fair",
+      "our_implied_p8_pp": 8.3665,
+      "delta_p8_pp": -0.2269,
+      "edge_direction_p8": "fair"
+    },
+    {
+      "team": "Brazil",
+      "market_pp": 8.3053,
+      "our_implied_p4_pp": 8.321,
+      "delta_p4_pp": 0.0157,
+      "edge_direction_p4": "fair",
+      "our_implied_p8_pp": 8.2914,
+      "delta_p8_pp": -0.0139,
+      "edge_direction_p8": "fair"
+    },
+    {
+      "team": "Germany",
+      "market_pp": 5.0408,
+      "our_implied_p4_pp": 5.112,
+      "delta_p4_pp": 0.0712,
+      "edge_direction_p4": "fair",
+      "our_implied_p8_pp": 5.0872,
+      "delta_p8_pp": 0.0464,
+      "edge_direction_p8": "fair"
+    },
+    {
+      "team": "Netherlands",
+      "market_pp": 3.8886,
+      "our_implied_p4_pp": 3.8809,
+      "delta_p4_pp": -0.0077,
+      "edge_direction_p4": "fair",
+      "our_implied_p8_pp": 3.8841,
+      "delta_p8_pp": -0.0046,
+      "edge_direction_p8": "fair"
+    },
+    {
+      "team": "Norway",
+      "market_pp": 2.2564,
+      "our_implied_p4_pp": 2.6634,
+      "delta_p4_pp": 0.407,
+      "edge_direction_p4": "underpriced",
+      "our_implied_p8_pp": 2.5735,
+      "delta_p8_pp": 0.3172,
+      "edge_direction_p8": "underpriced"
+    },
+    {
+      "team": "Belgium",
+      "market_pp": 1.8723,
+      "our_implied_p4_pp": 2.1401,
+      "delta_p4_pp": 0.2678,
+      "edge_direction_p4": "underpriced",
+      "our_implied_p8_pp": 2.1461,
+      "delta_p8_pp": 0.2738,
+      "edge_direction_p8": "underpriced"
+    },
+    {
+      "team": "Colombia",
+      "market_pp": 1.6803,
+      "our_implied_p4_pp": 1.7245,
+      "delta_p4_pp": 0.0442,
+      "edge_direction_p4": "fair",
+      "our_implied_p8_pp": 1.6992,
+      "delta_p8_pp": 0.019,
+      "edge_direction_p8": "fair"
+    },
+    {
+      "team": "Japan",
+      "market_pp": 1.6803,
+      "our_implied_p4_pp": 1.6192,
+      "delta_p4_pp": -0.0611,
+      "edge_direction_p4": "fair",
+      "our_implied_p8_pp": 1.5813,
+      "delta_p8_pp": -0.0989,
+      "edge_direction_p8": "fair"
+    },
+    {
+      "team": "Morocco",
+      "market_pp": 1.4882,
+      "our_implied_p4_pp": 1.5023,
+      "delta_p4_pp": 0.0141,
+      "edge_direction_p4": "fair",
+      "our_implied_p8_pp": 1.4809,
+      "delta_p8_pp": -0.0073,
+      "edge_direction_p8": "fair"
+    },
+    {
+      "team": "Mexico",
+      "market_pp": 1.2962,
+      "our_implied_p4_pp": 1.5128,
+      "delta_p4_pp": 0.2166,
+      "edge_direction_p4": "underpriced",
+      "our_implied_p8_pp": 1.4838,
+      "delta_p8_pp": 0.1876,
+      "edge_direction_p8": "underpriced"
+    },
+    {
+      "team": "Switzerland",
+      "market_pp": 1.2002,
+      "our_implied_p4_pp": 1.2552,
+      "delta_p4_pp": 0.055,
+      "edge_direction_p4": "fair",
+      "our_implied_p8_pp": 1.2269,
+      "delta_p8_pp": 0.0267,
+      "edge_direction_p8": "fair"
+    }
+  ]
+}

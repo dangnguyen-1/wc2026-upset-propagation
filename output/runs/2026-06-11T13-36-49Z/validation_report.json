@@ -1,0 +1,242 @@
+{
+  "computed_at": "2026-06-11T13:36:49+00:00",
+  "summary": {
+    "directional_sanity_scenarios_checked": 12,
+    "directional_sanity_pass_count": 12,
+    "sensitivity_checks_performed": 4,
+    "sensitivity_pass_count": 4,
+    "overall_pass": true
+  },
+  "directional_sanity": [
+    {
+      "scenario_id": "mexico_runner_up_A",
+      "verdict": "PASS",
+      "mean_abs_delta_by_distance_pp": {
+        "3": 0.0117,
+        "2": 0.1229,
+        "0": 0.0948,
+        "1": 0.5224
+      },
+      "team_count_by_distance": {
+        "3": 16,
+        "2": 8,
+        "0": 4,
+        "1": 4
+      }
+    },
+    {
+      "scenario_id": "switzerland_runner_up_B",
+      "verdict": "PASS",
+      "mean_abs_delta_by_distance_pp": {
+        "3": 0.0081,
+        "2": 0.0869,
+        "0": 0.0403,
+        "1": 0.3685
+      },
+      "team_count_by_distance": {
+        "3": 16,
+        "2": 8,
+        "0": 4,
+        "1": 4
+      }
+    },
+    {
+      "scenario_id": "brazil_runner_up_C",
+      "verdict": "PASS",
+      "mean_abs_delta_by_distance_pp": {
+        "3": 0.0904,
+        "0": 0.6784,
+        "1": 0.2225,
+        "2": 0.4144
+      },
+      "team_count_by_distance": {
+        "3": 16,
+        "0": 4,
+        "1": 4,
+        "2": 8
+      }
+    },
+    {
+      "scenario_id": "united_states_runner_up_D",
+      "verdict": "PASS",
+      "mean_abs_delta_by_distance_pp": {
+        "0": 0.1291,
+        "1": 0.0235,
+        "2": 0.0111,
+        "3": 0.0023
+      },
+      "team_count_by_distance": {
+        "0": 4,
+        "1": 4,
+        "2": 8,
+        "3": 16
+      }
+    },
+    {
+      "scenario_id": "germany_runner_up_E",
+      "verdict": "PASS",
+      "mean_abs_delta_by_distance_pp": {
+        "3": 0.0392,
+        "1": 0.7566,
+        "2": 0.0997,
+        "0": 0.6934
+      },
+      "team_count_by_distance": {
+        "3": 16,
+        "1": 4,
+        "2": 8,
+        "0": 4
+      }
+    },
+    {
+      "scenario_id": "netherlands_runner_up_F",
+      "verdict": "PASS",
+      "mean_abs_delta_by_distance_pp": {
+        "3": 0.0223,
+        "0": 0.9546,
+        "1": 0.0357,
+        "2": 0.1189
+      },
+      "team_count_by_distance": {
+        "3": 16,
+        "0": 4,
+        "1": 4,
+        "2": 8
+      }
+    },
+    {
+      "scenario_id": "belgium_runner_up_G",
+      "verdict": "PASS",
+      "mean_abs_delta_by_distance_pp": {
+        "1": 0.2386,
+        "2": 0.157,
+        "0": 0.3215,
+        "3": 0.0306
+      },
+      "team_count_by_distance": {
+        "1": 4,
+        "2": 8,
+        "0": 4,
+        "3": 16
+      }
+    },
+    {
+      "scenario_id": "spain_runner_up_H",
+      "verdict": "PASS",
+      "mean_abs_delta_by_distance_pp": {
+        "2": 0.2276,
+        "0": 2.0688,
+        "3": 0.2573,
+        "1": 0.3419
+      },
+      "team_count_by_distance": {
+        "2": 8,
+        "0": 4,
+        "3": 16,
+        "1": 4
+      }
+    },
+    {
+      "scenario_id": "france_runner_up_I",
+      "verdict": "PASS",
+      "mean_abs_delta_by_distance_pp": {
+        "3": 0.1326,
+        "1": 0.8039,
+        "2": 0.2363,
+        "0": 1.6137
+      },
+      "team_count_by_distance": {
+        "3": 16,
+        "1": 4,
+        "2": 8,
+        "0": 4
+      }
+    },
+    {
+      "scenario_id": "argentina_runner_up_J",
+      "verdict": "PASS",
+      "mean_abs_delta_by_distance_pp": {
+        "2": 0.2555,
+        "0": 1.7801,
+        "3": 0.1666,
+        "1": 0.1659
+      },
+      "team_count_by_distance": {
+        "2": 8,
+        "0": 4,
+        "3": 16,
+        "1": 4
+      }
+    },
+    {
+      "scenario_id": "portugal_runner_up_K",
+      "verdict": "PASS",
+      "mean_abs_delta_by_distance_pp": {
+        "2": 0.2508,
+        "1": 0.6434,
+        "3": 0.1432,
+        "0": 0.8467
+      },
+      "team_count_by_distance": {
+        "2": 8,
+        "1": 4,
+        "3": 16,
+        "0": 4
+      }
+    },
+    {
+      "scenario_id": "england_runner_up_L",
+      "verdict": "PASS",
+      "mean_abs_delta_by_distance_pp": {
+        "2": 0.3593,
+        "3": 0.1416,
+        "1": 0.8669,
+        "0": 0.7199
+      },
+      "team_count_by_distance": {
+        "2": 8,
+        "3": 16,
+        "1": 4,
+        "0": 4
+      }
+    }
+  ],
+  "sensitivity": [
+    {
+      "perturbed_team": "Spain",
+      "delta_elo": 50.0,
+      "verdict": "PASS",
+      "baseline_pwin": 0.15982,
+      "perturbed_pwin": 0.213759,
+      "team_movement_pp": 5.3939,
+      "global_conservation_pp": -0.0
+    },
+    {
+      "perturbed_team": "France",
+      "delta_elo": 50.0,
+      "verdict": "PASS",
+      "baseline_pwin": 0.161894,
+      "perturbed_pwin": 0.215458,
+      "team_movement_pp": 5.3564,
+      "global_conservation_pp": -0.0
+    },
+    {
+      "perturbed_team": "Argentina",
+      "delta_elo": 50.0,
+      "verdict": "PASS",
+      "baseline_pwin": 0.083105,
+      "perturbed_pwin": 0.118852,
+      "team_movement_pp": 3.5747,
+      "global_conservation_pp": 0.0
+    },
+    {
+      "perturbed_team": "Mexico",
+      "delta_elo": 50.0,
+      "verdict": "PASS",
+      "baseline_pwin": 0.01434,
+      "perturbed_pwin": 0.024137,
+      "team_movement_pp": 0.9797,
+      "global_conservation_pp": -0.0
+    }
+  ]
+}

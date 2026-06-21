@@ -1,0 +1,51 @@
+{
+  "event": "world_cup_2026",
+  "format": "12_groups_of_4",
+  "draw_date": "2025-12-05",
+  "draw_venue": "John F. Kennedy Center for the Performing Arts, Washington DC",
+  "kickoff_date": "2026-06-11",
+  "final_date": "2026-07-19",
+  "advancement_rule": "top_2_per_group_plus_8_best_third_place",
+  "total_advancing": 32,
+  "total_matches": 104,
+  "host_nations": ["United States", "Canada", "Mexico"],
+  "groups": {
+    "A": ["Mexico", "South Africa", "South Korea", "Czechia"],
+    "B": ["Canada", "Switzerland", "Qatar", "Bosnia and Herzegovina"],
+    "C": ["Brazil", "Morocco", "Haiti", "Scotland"],
+    "D": ["United States", "Paraguay", "Australia", "Turkey"],
+    "E": ["Germany", "Curacao", "Ivory Coast", "Ecuador"],
+    "F": ["Netherlands", "Japan", "Tunisia", "Sweden"],
+    "G": ["Belgium", "Egypt", "Iran", "New Zealand"],
+    "H": ["Spain", "Cape Verde", "Saudi Arabia", "Uruguay"],
+    "I": ["France", "Senegal", "Norway", "Iraq"],
+    "J": ["Argentina", "Algeria", "Austria", "Jordan"],
+    "K": ["Portugal", "DR Congo", "Uzbekistan", "Colombia"],
+    "L": ["England", "Croatia", "Ghana", "Panama"]
+  },
+  "playoff_resolutions": {
+    "uefa_playoffs_completed": "2026-03-31",
+    "uefa_winners": {
+      "Czechia": "defeated Denmark on penalties; placed in Group A",
+      "Bosnia and Herzegovina": "defeated Italy on penalties; placed in Group B",
+      "Turkey": "defeated Kosovo 1-0; placed in Group D",
+      "Sweden": "defeated Poland 3-2; placed in Group F"
+    },
+    "intercontinental_playoffs_completed": "2026-03-31",
+    "intercontinental_winners": {
+      "Iraq": "defeated Bolivia 2-1; placed in Group I",
+      "DR Congo": "defeated Jamaica 1-0; placed in Group K"
+    }
+  },
+  "teams_confirmed": 48,
+  "teams_tbd": 0,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-draw-results",
+    "https://www.nbcsports.com/soccer/news/2026-world-cup-groups-confirmed-full-draw-groups-details",
+    "https://www.uefa.com/european-qualifiers/news/029f-1f318027c4dd-8e9bab478b48-1000--world-cup-2026-which-european-teams-have-qualified/",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_qualification_(inter-confederation_play-offs)"
+  ],
+  "verified_at": "2026-05-10",
+  "notes": "All 48 teams confirmed as of May 2026. UEFA playoffs (March 26 & 31, 2026) and Intercontinental playoffs (March 26 & 31, 2026 in Mexico) resolved all 6 remaining slots."
+}

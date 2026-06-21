@@ -1,0 +1,8 @@
+{
+  "computed_at": "2026-06-11T13:40:43.476062+00:00",
+  "realised_state": {},
+  "n_groups_observed": 0,
+  "is_complete": false,
+  "top_scenarios": [],
+  "note": "No groups observed yet. Top-10 ranking becomes meaningful once at least one group has completed. Drop a match results CSV at output/match_results.csv to populate the state."
+}
